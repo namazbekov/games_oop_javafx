@@ -26,4 +26,5 @@ public class Checker implements Figure {
     public Figure copy(Cell dest) {
         return new Checker(dest);
     }
+
 }
